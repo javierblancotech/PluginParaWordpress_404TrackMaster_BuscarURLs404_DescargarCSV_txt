@@ -1,0 +1,34 @@
+.wrap {
+    text-align: center;
+    padding: 50px 20px; /* Mantendremos el padding vertical que ya tenías y añadiremos un padding horizontal */
+    border: 1px solid #e1e1e1; /* Borde alrededor del contenedor */
+    background-color: #fff; /* Fondo blanco para asegurarse de que se vea bien en cualquier tema administrativo */
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); /* Una ligera sombra para dar un efecto elevado */
+    margin-top: 20px; /* Margen superior para separar del título y otros elementos */
+}
+
+h1 {
+    font-size: 28px;
+    margin-bottom: 20px;
+    margin-top: 0; /* Remover margen superior para que el título esté cerca del borde superior */
+}
+
+p {
+    font-size: 18px;
+    margin-bottom: 30px;
+    max-width: 700px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.button.button-primary {
+    font-size: 18px;
+    padding: 12px 25px;
+    border-radius: 5px;
+    margin-top: 10px; /* Margen superior para dar espacio entre botones y otros elementos */
+    margin-right: 10px; /* Margen a la derecha para separar los botones entre sí */
+}
+
+.button.button-primary:hover {
+    background-color: #4CAF50;
+}
