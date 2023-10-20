@@ -1,5 +1,7 @@
 # 404 TrackMaster
 
+[![Logo de Javier Blanco](assets/LogoJavierBlanco.png)](https://javierblanco.tech/)
+
 **Contributors**: [Javier Blanco](https://javierblanco.tech/)
 
 **Tags**: 404, errors, tracking, csv, txt, urls, redirect, report
@@ -44,11 +46,7 @@ Actualmente, el plugin ofrece la descarga de todas las URLs 404 registradas. Sin
 
 ## Screenshots
 
-[En esta sección, puedes incluir capturas de pantalla del plugin en acción. Asegúrate de tener imágenes correspondientes en el directorio "assets" de tu plugin]
-
-1. Vista principal del panel de administración del plugin.
-2. Ejemplo de archivo CSV descargado.
-3. Ejemplo de archivo TXT descargado.
+![Vista principal del panel de administración del plugin](assets/Plugin.png)
 
 ## Changelog
 
@@ -56,7 +54,6 @@ Actualmente, el plugin ofrece la descarga de todas las URLs 404 registradas. Sin
 - Mejoras en la interfaz de usuario y diseño de la página de administración.
 - Optimización del código y corrección de errores menores.
 
-[...Aquí puedes incluir versiones anteriores con sus respectivas notas...]
 
 ## Upgrade Notice
 
