@@ -1,6 +1,6 @@
 # 404 TrackMaster
 
-[![Logo de Javier Blanco](assets/LogoJavierBlanco.png)](https://javierblanco.tech/)
+[![Logo of Javier Blanco](assets/LogoJavierBlanco.png)](https://javierblanco.tech/)
 
 **Contributors**: [Javier Blanco](https://javierblanco.tech/)
 
@@ -16,53 +16,52 @@
 
 **License**: [GPLv2 or later](https://www.gnu.org/licenses/gpl-2.0.html)
 
-Registra las URLs que generan errores 404 y permite descargarlas en formatos CSV y TXT con filtrado por fechas.
+Records URLs that generate 404 errors and allows downloading them in CSV and TXT formats with date filtering.
 
 ## Description
 
-404 TrackMaster es un plugin esencial para aquellos administradores de sitios web que desean mantener un registro y seguimiento de las URLs que generan errores 404. 
+404 TrackMaster is an essential plugin for website administrators who wish to maintain a record and track of URLs that generate 404 errors.
 
-**Características principales**:
+**Main Features**:
 
-- **Registro automático de URLs 404**: Cada vez que un usuario intenta acceder a una URL no existente, el plugin lo registra automáticamente.
-- **Exportación en CSV y TXT**: Los administradores pueden exportar fácilmente la lista de URLs que generan errores 404 en formatos CSV y TXT. El formato CSV también incluye la fecha en que se detectó el error.
-- **Fácil acceso desde el panel de administración**: Una vez instalado el plugin, encontrarás una opción en el menú de administración para acceder a las funcionalidades del plugin.
+- **Automatic 404 URL Logging**: Each time a user tries to access a non-existing URL, the plugin automatically logs it.
+- **Export in CSV and TXT**: Administrators can easily export the list of URLs generating 404 errors in CSV and TXT formats. The CSV format also includes the date the error was detected.
+- **Easy access from the admin panel**: Once the plugin is installed, you will find an option in the admin menu to access the plugin's functionalities.
 
 ## Installation
 
-1. Sube los archivos del plugin al directorio `/wp-content/plugins/404-trackmaster`, o instala el plugin directamente a través de la pantalla de plugins de WordPress.
-2. Activa el plugin desde la pantalla 'Plugins' en WordPress.
-3. Una vez activado, encontrarás una opción en el menú de administración llamada '404 TrackMaster' donde podrás descargar los informes.
+1. Upload the plugin files to the `/wp-content/plugins/404-trackmaster` directory, or install the plugin directly through the WordPress plugins screen.
+2. Activate the plugin through the 'Plugins' screen in WordPress.
+3. Once activated, you will find an option in the admin menu called '404 TrackMaster' where you can download the reports.
 
 ## Frequently Asked Questions
 
-**¿Hay algún límite en la cantidad de URLs 404 que puedo registrar?**
+**Is there any limit to the number of 404 URLs I can log?**
 
-No, el plugin registrará todas las URLs 404 mientras haya espacio en la base de datos de tu sitio web.
+No, the plugin will log all the 404 URLs as long as there's space in your website's database.
 
-**¿Puedo filtrar las URLs por fecha?**
+**Can I filter the URLs by date?**
 
-Actualmente, el plugin ofrece la descarga de todas las URLs 404 registradas. Sin embargo, el formato CSV incluye fechas, lo que permite filtrar las URLs después de descargarlas.
+Currently, the plugin offers the download of all logged 404 URLs. However, the CSV format includes dates, which allows filtering the URLs after downloading them.
 
 ## Screenshots
 
-![Vista principal del panel de administración del plugin](assets/Plugin.png)
+![Main view of the plugin's admin panel](assets/Plugin.png)
 
 ## Changelog
 
 ### 1.5
-- Mejoras en la interfaz de usuario y diseño de la página de administración.
-- Optimización del código y corrección de errores menores.
-
+- User interface improvements and design enhancements for the admin page.
+- Code optimization and minor bug fixes.
 
 ## Upgrade Notice
 
 ### 1.5
-Actualización recomendada para todos los usuarios para mejorar la experiencia del usuario y la estabilidad del plugin.
+Recommended update for all users to enhance user experience and plugin stability.
 
 ---
 
-**Conéctate con el desarrollador**:
+**Connect with the developer**:
 
-- [Portafolio - Javier Blanco](https://javierblanco.tech/)
+- [Portfolio - Javier Blanco](https://javierblanco.tech/)
 - [LinkedIn](https://www.linkedin.com/in/javierblancotech)
